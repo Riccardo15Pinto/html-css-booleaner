@@ -8,13 +8,13 @@ body{
 }
 
 .container{
-    max-width: 80%;
+    width: 1000px;
     margin:0 auto;
     background-color: white;
 }
 
 .paper{
-    max-width: 60%;
+    max-width: 70%;
     margin:0 auto;
 }
 
