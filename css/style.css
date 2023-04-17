@@ -82,13 +82,9 @@ table{
 thead{
     background-color: rgb(53, 168, 197);
     color: white;
-    margin:0;
 }
 
 .color{
     background-color: rgb(191, 236, 253);
 }
 
-td, th{
-    border: none;
-}
