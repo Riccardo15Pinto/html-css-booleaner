@@ -51,7 +51,7 @@ p, table{
     font-size: 12px;
 }
 
-span {
+.important {
     background-color: yellow;
 }
 
@@ -88,3 +88,27 @@ thead{
     background-color: rgb(191, 236, 253);
 }
 
+.interest{
+    width: 150px;   
+    height: 150px;
+    margin-top: 10px;
+}
+
+.monitor{
+    background-image: url("../img/monitor.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.graph{
+    background-image: url("../img/graph.jpg");
+    background-size: cover;
+}
+
+.dolor{
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+    margin-top:  15px;
+    margin-left: 10px;
+}
