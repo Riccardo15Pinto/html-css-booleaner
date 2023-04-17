@@ -34,7 +34,7 @@ main{
     margin-top: 20px;
 }
 
-.autore{
+.autore, h3{
     color: grey;
 }
 
@@ -55,7 +55,7 @@ span {
     background-color: yellow;
 }
 
-section, ul{
+section, ul, footer{
     margin-top: 15px;
 }
 
