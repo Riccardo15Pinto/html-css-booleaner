@@ -21,6 +21,7 @@ body{
 
 header{
     background-image: url("../img/pattern.png");
+    background-size: contain;
     background-color: rgb(82, 148, 247);
 }
 
@@ -86,4 +87,8 @@ thead{
 
 .color{
     background-color: rgb(191, 236, 253);
+}
+
+td, th{
+    border: none;
 }
