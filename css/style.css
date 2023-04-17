@@ -31,3 +31,11 @@ header{
 main{
     margin-top: 20px;
 }
+
+.autore{
+    color: grey;
+}
+
+a{
+    text-decoration: none;
+}
