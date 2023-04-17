@@ -1,6 +1,7 @@
 *{
     box-sizing: border-box;
     margin: 0;
+    text-decoration: none;
 }
 
 body{
@@ -36,10 +37,6 @@ main{
     color: grey;
 }
 
-a{
-    text-decoration: none;
-}
-
 .tim{
     width: 45%;
     height: 250px;
@@ -51,4 +48,12 @@ a{
 
 p{
     font-size: 12px;
+}
+
+span{
+    background-color: yellow;
+}
+
+section{
+    margin-top: 15px;
 }
